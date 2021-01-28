@@ -1,4 +1,4 @@
-import Aux from '../../../hoc/Auxilliary/Auxilliary';
+import Aux from '../../../hoc/Aux/Aux';
 import Button from '../../UI/Button/Button'
 
 const orderSummary = (props) => {
